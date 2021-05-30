@@ -18,9 +18,24 @@
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
+        "name": "facebook",
+        "url": "https://www.facebook.com/victor.polisetty.7",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/victor-polisetty-7a7b4b196/",
         "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/victorpolisetty/",
+        "className": "fa fa-instagram"
       },
       {
         "name": "github",
@@ -34,7 +49,7 @@
     "education": [
       {
         "school": "University of Florida",
-        "degree": "Masters in Beer tasting",
+        "degree": "Bachelor of Science in Computer Science",
         "graduated": "May 2024",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
