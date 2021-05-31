@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Victor Polisetty",
-    "occupation": "Full Stack Developer",
-    "description": "I'm a Computer Science student with a minor in math at the University of Florida. I enjoy learning, designing, and collaborating with others to build amazing software.",
+    "occupation": "Software Engineer/Product Manager",
+    "description": "I'm a Computer Science student with a minor in math at the University of Florida. I enjoy learning, designing, and collaborating with others to build amazing software",
     "image": "profilepic.jpg",
-    "bio": "School and personal projects have allowed me to work in different areas, such as Full-stack programming, Mobile programming,Database design & programming, Data Science, AI & Machine Learning, and Cybersecurity.",
+    "bio": "School and personal projects have allowed me to work in different areas, such as Full-stack programming, Mobile programming,Database design, and AI & Machine Learning",
     "contactmessage": "Want to reach out? Feel free to send me a message!",
     "email": "victorpolisetty@gmail.com",
     "phone": "904-651-3819",
