@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name": "Victor Polisetty",
+    "occupation": "Software Engineer",
+    "description": "As I near graduation, I am seeking full-time software engineering roles where I can apply my diverse skill set. For collaboration or opportunities, please contact me at victorpolisetty@gmail.com",
+    "image": "professionalheadshot.jpg",
+    "bio": "As an aspiring software engineer, my technical skills in engineering and economics drive me to solve business challenges using technologies like web3, blockchain, and AI. I've demonstrated entrepreneurial initiative by launching Gator Bazaar, a full-stack iOS application with over 300+ downloads, and delving into blockchain through open source projects using Solidity, the Autonolas protocol, and Uniswap.",
+    "contactmessage": "Want to reach out? Feel free to send me a message!",
+    "email": "victorpolisetty@gmail.com",
+    "phone": "904-651-3819",
+    "address": {
+      "street": "2150 Old Barn Rd.",
+      "city": "Ponte Vedra Beach",
+      "state": "FL",
+      "zip": "32082"
+    },
+    "website": "https://victorpolisetty.github.io/",
+    "resumedownload": "assets/VictorPolisettyRevision.pdf",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/0xVictorP",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/victorpolisetty/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/victorpolisetty",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Florida",
+        "degree": "B.S. in Computer Science (minor in economics)",
+        "graduated": "May 2024",
+        "description": "Relevant Coursework: Programming 1 (Java), Programming 2 (C++), Data Structures & Algorithms, Algorithm Abstraction & Design, Discrete Structures, Programming Language Concepts, Artificial Intelligence Fundamentals"
+      }
+    ],
+    "work": [
+      {
+        "company": "LinkedIn",
+        "title": "Software Engineer Intern",
+        "years": "May 2023 - August 2023",
+        "description": ""
+      },
+      {
+        "company": "Amazon Web Services (AWS)",
+        "title": "Software Engineer Intern",
+        "years": "May 2022 - August 2022",
+        "description": ""
+      },
+      {
+        "company": "Sureify Labs Inc.",
+        "title": "Software Engineer Intern",
+        "years": "May 2021 - August 2021",
+        "description": ""
+      },
+      {
+        "company": "Tata Consultancy Services (TCS)",
+        "title": "Web Development Intern",
+        "years": "May 2019 - August 2019",
+        "description": ""
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Gator Bazaar",
+        "category": "An iOS app to facilitate buying and selling items between students on campus",
+        "image": "GatorBazaarLogoBW.jpg",
+        "url": "https://apps.apple.com/us/app/gator-bazaar/id1645129519"
+      },
+      {
+        "title": "Swamp Explorer",
+        "category": "Maze game to help visualize the difference between BFS and Djikstra's algorithm",
+        "image": "gator.png",
+        "url": "https://xx8z8.csb.app/"
+      },
+      {
+        "title": "Uniswap Flash Swaps",
+        "category": "Utilizing Uniswap API to create flash swaps",
+        "image": "uniswap logo.png",
+        "url": "https://github.com/victorpolisetty/Uniswap-Flash-Swaps"
+      },
+      {
+        "title": "Uniswap Liquidity Provider",
+        "category": "Utilizing Uniswap API to allow for the creation of liquidity",
+        "image": "Uniswap-Exchange-Logo.jpg",
+        "url": "https://github.com/victorpolisetty/Uniswap-Liquidity-Provider"
+      }
+    ]
+  }
+}
